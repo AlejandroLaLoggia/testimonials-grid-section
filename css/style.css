@@ -14,6 +14,7 @@
 
     --color_lg_gray: hsl(0, 0%, 81%);
     --color_lg_grayish_blue: hsl(210, 46%, 95%);
+    --color_bck: hsl(213,44%,95%);
 
     /*Font*/
     --fs_body:13px;
@@ -41,7 +42,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-color: var(--color_lg_gray);
+    background-color: var(--color_bck);
     margin-top: 6rem;
     margin-bottom: 6rem;
     padding: 0;
