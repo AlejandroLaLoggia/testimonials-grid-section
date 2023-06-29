@@ -154,6 +154,11 @@ body {
 
 @media (min-width:720px){
 
+    body{
+       min-height: 100vh;
+       margin: 0;
+    }
+    
     .container{
         margin: 0;
         display: grid;
